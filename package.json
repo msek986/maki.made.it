@@ -1,0 +1,15 @@
+{
+  "name": "maki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o public/css/ --recursive"
+  },
+  "author": "Marko Sekulic",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
